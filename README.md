@@ -1,4 +1,4 @@
-# MinimalApiExperiments
+# Minimal API Experiments
 This repository contains some of my initial experiments playing around with the new minimal API features of the ASP.NET 6 framework - i.e., no Startup class, implicit namespace inclusions, and no explicit controllers. It also contains the result of trying to exploit the (fairly) new record types in order to minimize the code concerned with exoressing API contracts.
 
 # Running
